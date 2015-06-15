@@ -1,0 +1,3 @@
+[submodule "GitHubRepo"]
+	path = GitHubRepo
+	url = https://github.com/dariaisachenkova/GitHubRepo.git
